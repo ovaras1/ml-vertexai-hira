@@ -6,8 +6,8 @@ Machine Learning - Investment Thesis Generator
 - Conversate with dataset to answer questions in real-time.
 
 Tech Stack:
-- - Vertex AI 
-- - Vertex AI Embeddings
-- - ChromaDB
-- - secedgar
-- - JS 
+- Vertex AI 
+- Vertex AI Embeddings
+- ChromaDB
+- secedgar
+- JS 
